@@ -1,0 +1,8 @@
+C:\Users\steve\OneDrive\Desktop\LINQ_Lab\ExerciseFour\ExerciseFour\bin\Debug\ExerciseFour.exe.config
+C:\Users\steve\OneDrive\Desktop\LINQ_Lab\ExerciseFour\ExerciseFour\bin\Debug\ExerciseFour.exe
+C:\Users\steve\OneDrive\Desktop\LINQ_Lab\ExerciseFour\ExerciseFour\bin\Debug\ExerciseFour.pdb
+C:\Users\steve\OneDrive\Desktop\LINQ_Lab\ExerciseFour\ExerciseFour\obj\Debug\ExerciseFour.csproj.AssemblyReference.cache
+C:\Users\steve\OneDrive\Desktop\LINQ_Lab\ExerciseFour\ExerciseFour\obj\Debug\ExerciseFour.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Desktop\LINQ_Lab\ExerciseFour\ExerciseFour\obj\Debug\ExerciseFour.exe
+C:\Users\steve\OneDrive\Desktop\LINQ_Lab\ExerciseFour\ExerciseFour\obj\Debug\ExerciseFour.pdb
+C:\Users\steve\OneDrive\Desktop\LINQ_Lab\ExerciseFour\ExerciseFour\obj\Debug\ExerciseFour.exe.config
