@@ -22,3 +22,11 @@ C:\Users\steve\OneDrive\Desktop\Linq_Lab\ExerciseOne\Linq_Lab\obj\Debug\Linq_Lab
 C:\Users\steve\OneDrive\Desktop\Linq_Lab\ExerciseOne\Linq_Lab\obj\Debug\Linq_Lab.csproj.CoreCompileInputs.cache
 C:\Users\steve\OneDrive\Desktop\Linq_Lab\ExerciseOne\Linq_Lab\obj\Debug\Linq_Lab.exe
 C:\Users\steve\OneDrive\Desktop\Linq_Lab\ExerciseOne\Linq_Lab\obj\Debug\Linq_Lab.pdb
+C:\Users\1971537\Desktop\LINQ_Lab\ExerciseOne\Linq_Lab\bin\Debug\Linq_Lab.exe.config
+C:\Users\1971537\Desktop\LINQ_Lab\ExerciseOne\Linq_Lab\bin\Debug\Linq_Lab.exe
+C:\Users\1971537\Desktop\LINQ_Lab\ExerciseOne\Linq_Lab\bin\Debug\Linq_Lab.pdb
+C:\Users\1971537\Desktop\LINQ_Lab\ExerciseOne\Linq_Lab\obj\Debug\Linq_Lab.csproj.AssemblyReference.cache
+C:\Users\1971537\Desktop\LINQ_Lab\ExerciseOne\Linq_Lab\obj\Debug\Linq_Lab.exe.config
+C:\Users\1971537\Desktop\LINQ_Lab\ExerciseOne\Linq_Lab\obj\Debug\Linq_Lab.csproj.CoreCompileInputs.cache
+C:\Users\1971537\Desktop\LINQ_Lab\ExerciseOne\Linq_Lab\obj\Debug\Linq_Lab.exe
+C:\Users\1971537\Desktop\LINQ_Lab\ExerciseOne\Linq_Lab\obj\Debug\Linq_Lab.pdb

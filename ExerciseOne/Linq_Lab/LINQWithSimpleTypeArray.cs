@@ -73,7 +73,7 @@ namespace Linq_Lab
                 Console.Write($" {element}");
             }
 
-
+            Console.WriteLine();
         }
     }
 }

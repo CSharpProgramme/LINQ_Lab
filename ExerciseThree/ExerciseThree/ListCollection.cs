@@ -23,17 +23,17 @@ namespace ExerciseThree
             Console.WriteLine("After adding two elements to items: " + $"Count = {items.Count}; Capacity = {items.Capacity}");
 
             //display the colors in the list
-            Console.WriteLine("\nDisplay list contents with counter-controlled loop:");
+            Console.Write("\nDisplay list contents with counter-controlled loop:");
             for (var i = 0; i < items.Count; i++)
             {
-                Console.Write($"{items[i]} ");
+                Console.Write($" {items[i]}");
             }
 
             //display the colors using foreach
-            Console.WriteLine("\nDisplay list contents with foreach statement:");
+            Console.Write("\nDisplay list contents with foreach statement:");
             foreach(var item in items)
             {
-                Console.Write($"{item} ");
+                Console.Write($" {item}");
             }
 
             items.Add("green"); //add "green" to the end of the list
@@ -43,10 +43,10 @@ namespace ExerciseThree
             Console.WriteLine("\n\nAfter adding two more elements to items: " + $"Count = {items.Count}; Capacity = {items.Capacity}");
 
             //display the list
-            Console.Write("\nList with two new elements:");
+            Console.Write("List with two new elements:");
             foreach(var item in items)
             {
-                Console.Write($" {item} ");
+                Console.Write($" {item}");
             }
 
             items.Remove("yellow"); //remove the first "yellow"
@@ -55,20 +55,20 @@ namespace ExerciseThree
             Console.Write("\n\nremove first instance of yellow:");
             foreach (var item in items)
             {
-                Console.Write($" {item} ");
+                Console.Write($" {item}");
             }
 
             items.RemoveAt(1); //remove item at index 1
 
             //display the list
-            Console.Write("\n\nremove second instance (green):");
+            Console.Write("\nremove second instance (green):");
             foreach (var item in items)
             {
-                Console.Write($" {item} ");
+                Console.Write($" {item}");
             }
 
             //display list's count and capacity after removing two elements
-            Console.WriteLine("\n\nAfter removing two elements from items: " + $"Count = {items.Count}; Capacity = {items.Capacity}");
+            Console.WriteLine("\nAfter removing two elements from items: " + $"Count = {items.Count}; Capacity = {items.Capacity}");
 
             //check if a value is in the list
             Console.WriteLine("\n\"red\" is " + $"{(items.Contains("red") ? string.Empty : "not ")}in the list");
@@ -84,7 +84,7 @@ namespace ExerciseThree
             Console.Write("list with three new elements:");
             foreach (var item in items)
             {
-                Console.Write($" {item} ");
+                Console.Write($" {item}");
             }
             Console.WriteLine();
         }

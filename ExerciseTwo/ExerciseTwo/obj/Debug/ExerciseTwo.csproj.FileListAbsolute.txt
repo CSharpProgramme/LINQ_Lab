@@ -6,3 +6,11 @@ C:\Users\steve\OneDrive\Desktop\Linq_Lab\ExerciseTwo\ExerciseTwo\bin\Debug\Exerc
 C:\Users\steve\OneDrive\Desktop\Linq_Lab\ExerciseTwo\ExerciseTwo\obj\Debug\ExerciseTwo.exe
 C:\Users\steve\OneDrive\Desktop\Linq_Lab\ExerciseTwo\ExerciseTwo\obj\Debug\ExerciseTwo.pdb
 C:\Users\steve\OneDrive\Desktop\Linq_Lab\ExerciseTwo\ExerciseTwo\obj\Debug\ExerciseTwo.exe.config
+C:\Users\1971537\Desktop\LINQ_Lab\ExerciseTwo\ExerciseTwo\bin\Debug\ExerciseTwo.exe.config
+C:\Users\1971537\Desktop\LINQ_Lab\ExerciseTwo\ExerciseTwo\bin\Debug\ExerciseTwo.exe
+C:\Users\1971537\Desktop\LINQ_Lab\ExerciseTwo\ExerciseTwo\bin\Debug\ExerciseTwo.pdb
+C:\Users\1971537\Desktop\LINQ_Lab\ExerciseTwo\ExerciseTwo\obj\Debug\ExerciseTwo.csproj.AssemblyReference.cache
+C:\Users\1971537\Desktop\LINQ_Lab\ExerciseTwo\ExerciseTwo\obj\Debug\ExerciseTwo.exe.config
+C:\Users\1971537\Desktop\LINQ_Lab\ExerciseTwo\ExerciseTwo\obj\Debug\ExerciseTwo.csproj.CoreCompileInputs.cache
+C:\Users\1971537\Desktop\LINQ_Lab\ExerciseTwo\ExerciseTwo\obj\Debug\ExerciseTwo.exe
+C:\Users\1971537\Desktop\LINQ_Lab\ExerciseTwo\ExerciseTwo\obj\Debug\ExerciseTwo.pdb
